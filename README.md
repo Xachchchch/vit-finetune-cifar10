@@ -6,11 +6,11 @@ This project demonstrates training and fine-tuning a Vision Transformer (ViT) on
 
 ## Features
 
-- ✅ Custom patch embedding module (`Patching`)
-- ✅ Pretrained ViT backbone (`timm`)
-- ✅ Selective fine-tuning (only head and positional embeddings are trained)
-- ✅ CIFAR-10 classification with data augmentation
-- ✅ Training metrics logged to Weights & Biases (W&B)
+-  Custom patch embedding module (`Patching`)
+-  Pretrained ViT backbone (`timm`)
+-  Selective fine-tuning (only head and positional embeddings are trained)
+-  CIFAR-10 classification with data augmentation
+-  Training metrics logged to Weights & Biases (W&B)
 
 ---
 
